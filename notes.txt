@@ -1,0 +1,77 @@
+spring -> 
+		core 
+		web/ mvc 
+		boot*****
+			REST API -- services  
+			microservices--> 
+
+
+maven -> tool -> jar -> lib -> 
+
+advjava -> lib -> 
+
+maven -> pom.xml -> entry -> mvnrepository ->
+
+ 
+ant -> 
+maven -> 
+gradle -> 
+
+
+
+java -> spring -> lib -> 
+		1	core
+		2	bean
+		3	context 
+		4	el
+
+		5	web-mvc 		
+		
+		6	boot-starter 
+
+
+
+
+
+
+
+
+
+
+
+
+
+bean -> 
+		private 
+		getters setters 
+		public** 
+spring bean ->
+		class - life cycle - spring -> 
+
+Spring container -> IoC container -> 
+		1) singleton 
+		2) DI 
+
+
+		SpringContainer -> I:BeanFactory {x}
+				   I:ApplicationContext {2x} 	
+					C: ClassPathXmlApplicationContext  
+					C: FileSystemXmlApplicationContext  
+					C: WebXmlApplicationContext  
+
+servlet container --> apache tomcat -> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
